@@ -1,4 +1,4 @@
-# passwd_creator
+# Password creator
 Create a password for you
 
 Just input the length of the password and :
